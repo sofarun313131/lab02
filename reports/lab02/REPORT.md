@@ -4,9 +4,9 @@
 Для управления репозиториями из консоли были экспортированы конфигурационные переменные и сформирован локальный файл авторизации для утилиты hub с использованием токена доступа:
 
 ```bash
-export GITHUB_USERNAME=Ваша_Учетка_GitHub
-export GITHUB_EMAIL=Ваша_Почта_GitHub
-export GITHUB_TOKEN=ghp_ВашТокенСПравамиRepo
+export GITHUB_USERNAME=sofarun313131
+export GITHUB_EMAIL=sofa.run31.31.31@gmail.com
+export GITHUB_TOKEN=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
 alias edit=nano
 
 cd ${GITHUB_USERNAME}/workspace
